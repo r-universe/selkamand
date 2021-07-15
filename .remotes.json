@@ -1,0 +1,14 @@
+[
+  {
+    "package": "golem",
+    "url": "https://github.com/Thinkr-open/golem",
+    "via": ["utilitybeltshiny"],
+    "from": "utilitybeltshiny"
+  },
+  {
+    "package": "utilitybeltassertions",
+    "url": "https://github.com/selkamand/utilitybeltassertions",
+    "via": ["utilitybeltshiny"],
+    "from": "utilitybeltshiny"
+  }
+]
