@@ -8,11 +8,6 @@
 	url = https://github.com/selkamand/utilitybeltgg
 	shallow = true
 	registered = true
-[submodule "utilitybeltshiny"]
-	path = utilitybeltshiny
-	url = https://github.com/selkamand/utilitybeltshiny
-	shallow = true
-	registered = true
 [submodule "utilitybeltlists"]
 	path = utilitybeltlists
 	url = https://github.com/selkamand/utilitybeltlists
