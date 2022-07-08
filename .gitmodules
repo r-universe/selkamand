@@ -28,3 +28,8 @@
 	url = https://github.com/Thinkr-open/golem
 	shallow = true
 	registered = false
+[submodule "utilitybeltfmt"]
+	path = utilitybeltfmt
+	url = https://github.com/selkamand/utilitybeltfmt
+	shallow = true
+	registered = false
