@@ -16,5 +16,11 @@
     "url": "https://github.com/selkamand/utilitybeltfmt",
     "via": ["utilitybeltassertions"],
     "from": "utilitybeltassertions"
+  },
+  {
+    "package": "utilitybeltfmt",
+    "url": "https://github.com/selkamand/utilitybeltfmt",
+    "via": ["utilitybeltgg"],
+    "from": "utilitybeltgg"
   }
 ]
