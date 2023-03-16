@@ -1,5 +1,11 @@
 [
   {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
+    "via": ["fastmart"],
+    "from": "fastmart"
+  },
+  {
     "package": "golem",
     "url": "https://github.com/Thinkr-open/golem",
     "via": ["utilitybeltshiny"],

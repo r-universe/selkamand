@@ -28,6 +28,11 @@
 	url = https://github.com/selkamand/fastmart
 	shallow = true
 	registered = true
+[submodule "assertions"]
+	path = assertions
+	url = https://github.com/selkamand/assertions
+	shallow = true
+	registered = false
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
