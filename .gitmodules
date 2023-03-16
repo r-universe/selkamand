@@ -23,6 +23,11 @@
 	url = https://github.com/selkamand/utilitybeltassertions
 	shallow = true
 	registered = true
+[submodule "fastmart"]
+	path = fastmart
+	url = https://github.com/selkamand/fastmart
+	shallow = true
+	registered = true
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
