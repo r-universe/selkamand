@@ -28,11 +28,16 @@
 	url = https://github.com/selkamand/fastmart
 	shallow = true
 	registered = true
+[submodule "mutaliskRutils"]
+	path = mutaliskRutils
+	url = https://github.com/selkamand/mutaliskRutils
+	shallow = true
+	registered = true
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
 	shallow = true
-	registered = false
+	registered = true
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
