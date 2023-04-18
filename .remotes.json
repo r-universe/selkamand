@@ -6,6 +6,12 @@
     "from": "fastmart"
   },
   {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
+    "via": ["mutaliskRutils"],
+    "from": "mutaliskRutils"
+  },
+  {
     "package": "golem",
     "url": "https://github.com/Thinkr-open/golem",
     "via": ["utilitybeltshiny"],
