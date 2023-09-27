@@ -1,50 +1,33 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/selkamand/universe
-	shallow = true
 	branch = HEAD
-[submodule "utilitybeltgg"]
-	path = utilitybeltgg
-	url = https://github.com/selkamand/utilitybeltgg
-	shallow = true
-	registered = true
-[submodule "utilitybeltshiny"]
-	path = utilitybeltshiny
-	url = https://github.com/selkamand/utilitybeltshiny
-	shallow = true
-	registered = true
-[submodule "utilitybeltlists"]
-	path = utilitybeltlists
-	url = https://github.com/selkamand/utilitybeltlists
-	shallow = true
-	registered = true
-[submodule "utilitybeltassertions"]
-	path = utilitybeltassertions
-	url = https://github.com/selkamand/utilitybeltassertions
-	shallow = true
-	registered = true
-[submodule "fastmart"]
-	path = fastmart
-	url = https://github.com/selkamand/fastmart
-	shallow = true
-	registered = true
-[submodule "mutaliskRutils"]
-	path = mutaliskRutils
-	url = https://github.com/selkamand/mutaliskRutils
-	shallow = true
-	registered = true
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
-	shallow = true
-	registered = true
+[submodule "fastmart"]
+	path = fastmart
+	url = https://github.com/selkamand/fastmart
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
-	shallow = true
 	registered = false
+[submodule "mutaliskRutils"]
+	path = mutaliskRutils
+	url = https://github.com/selkamand/mutaliskRutils
+[submodule "utilitybeltassertions"]
+	path = utilitybeltassertions
+	url = https://github.com/selkamand/utilitybeltassertions
 [submodule "utilitybeltfmt"]
 	path = utilitybeltfmt
 	url = https://github.com/selkamand/utilitybeltfmt
-	shallow = true
 	registered = false
+[submodule "utilitybeltgg"]
+	path = utilitybeltgg
+	url = https://github.com/selkamand/utilitybeltgg
+[submodule "utilitybeltlists"]
+	path = utilitybeltlists
+	url = https://github.com/selkamand/utilitybeltlists
+[submodule "utilitybeltshiny"]
+	path = utilitybeltshiny
+	url = https://github.com/selkamand/utilitybeltshiny
