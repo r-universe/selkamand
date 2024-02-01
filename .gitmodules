@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/selkamand/universe
+	url = https://github.com/selkamand/selkamand.r-universe.dev
 	branch = HEAD
 [submodule "assertions"]
 	path = assertions
