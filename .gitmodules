@@ -8,6 +8,9 @@
 [submodule "fastmart"]
 	path = fastmart
 	url = https://github.com/selkamand/fastmart
+[submodule "gg1d"]
+	path = gg1d
+	url = https://github.com/selkamand/gg1d
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
