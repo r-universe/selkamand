@@ -5,12 +5,25 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
+[submodule "express"]
+	path = express
+	url = https://github.com/selkamand/express
+	registered = false
 [submodule "fastmart"]
 	path = fastmart
 	url = https://github.com/selkamand/fastmart
 [submodule "gg1d"]
 	path = gg1d
 	url = https://github.com/selkamand/gg1d
+[submodule "ggEDA"]
+	path = ggEDA
+	url = https://github.com/CCICB/ggEDA
+	registered = false
+[submodule "ggiraph"]
+	path = ggiraph
+	url = https://github.com/davidgohel/ggiraph
+	branch = 49f7c0cea9e6391c47f36d7f3d6e5d379e132b6d
+	registered = false
 [submodule "ggoncoplot"]
 	path = ggoncoplot
 	url = https://github.com/selkamand/ggoncoplot
@@ -21,6 +34,14 @@
 [submodule "mutaliskRutils"]
 	path = mutaliskRutils
 	url = https://github.com/selkamand/mutaliskRutils
+[submodule "mutationtypes"]
+	path = mutationtypes
+	url = https://github.com/selkamand/mutationtypes
+	registered = false
+[submodule "somaticflags"]
+	path = somaticflags
+	url = https://github.com/CCICB/somaticflags
+	registered = false
 [submodule "utilitybeltassertions"]
 	path = utilitybeltassertions
 	url = https://github.com/selkamand/utilitybeltassertions

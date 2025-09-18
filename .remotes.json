@@ -8,14 +8,51 @@
   {
     "package": "assertions",
     "url": "https://github.com/selkamand/assertions",
+    "via": ["ggoncoplot", "express"],
+    "from": "ggoncoplot"
+  },
+  {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
     "via": ["mutaliskRutils"],
     "from": "mutaliskRutils"
+  },
+  {
+    "package": "express",
+    "url": "https://github.com/selkamand/express",
+    "via": ["ggoncoplot"],
+    "from": "ggoncoplot"
+  },
+  {
+    "package": "ggEDA",
+    "url": "https://github.com/CCICB/ggEDA",
+    "via": ["ggoncoplot"],
+    "from": "ggoncoplot"
+  },
+  {
+    "package": "ggiraph",
+    "url": "https://github.com/davidgohel/ggiraph",
+    "via": ["ggoncoplot"],
+    "branch": "49f7c0cea9e6391c47f36d7f3d6e5d379e132b6d",
+    "from": "ggoncoplot"
   },
   {
     "package": "golem",
     "url": "https://github.com/Thinkr-open/golem",
     "via": ["utilitybeltshiny"],
     "from": "utilitybeltshiny"
+  },
+  {
+    "package": "mutationtypes",
+    "url": "https://github.com/selkamand/mutationtypes",
+    "via": ["ggoncoplot"],
+    "from": "ggoncoplot"
+  },
+  {
+    "package": "somaticflags",
+    "url": "https://github.com/CCICB/somaticflags",
+    "via": ["ggoncoplot"],
+    "from": "ggoncoplot"
   },
   {
     "package": "utilitybeltassertions",
