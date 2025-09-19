@@ -11,6 +11,9 @@
 [submodule "gg1d"]
 	path = gg1d
 	url = https://github.com/selkamand/gg1d
+[submodule "ggoncoplot"]
+	path = ggoncoplot
+	url = https://github.com/selkamand/ggoncoplot
 [submodule "golem"]
 	path = golem
 	url = https://github.com/Thinkr-open/golem
