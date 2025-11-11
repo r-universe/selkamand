@@ -24,12 +24,6 @@
     "from": "ggoncoplot"
   },
   {
-    "package": "ggEDA",
-    "url": "https://github.com/CCICB/ggEDA",
-    "via": ["ggoncoplot"],
-    "from": "ggoncoplot"
-  },
-  {
     "package": "golem",
     "url": "https://github.com/Thinkr-open/golem",
     "via": ["utilitybeltshiny"],
@@ -38,12 +32,6 @@
   {
     "package": "mutationtypes",
     "url": "https://github.com/selkamand/mutationtypes",
-    "via": ["ggoncoplot"],
-    "from": "ggoncoplot"
-  },
-  {
-    "package": "somaticflags",
-    "url": "https://github.com/CCICB/somaticflags",
     "via": ["ggoncoplot"],
     "from": "ggoncoplot"
   },

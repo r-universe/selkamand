@@ -15,10 +15,6 @@
 [submodule "gg1d"]
 	path = gg1d
 	url = https://github.com/selkamand/gg1d
-[submodule "ggEDA"]
-	path = ggEDA
-	url = https://github.com/CCICB/ggEDA
-	registered = false
 [submodule "ggoncoplot"]
 	path = ggoncoplot
 	url = https://github.com/selkamand/ggoncoplot
@@ -32,10 +28,6 @@
 [submodule "mutationtypes"]
 	path = mutationtypes
 	url = https://github.com/selkamand/mutationtypes
-	registered = false
-[submodule "somaticflags"]
-	path = somaticflags
-	url = https://github.com/CCICB/somaticflags
 	registered = false
 [submodule "utilitybeltassertions"]
 	path = utilitybeltassertions
