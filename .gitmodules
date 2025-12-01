@@ -29,6 +29,10 @@
 	path = mutationtypes
 	url = https://github.com/selkamand/mutationtypes
 	registered = false
+[submodule "rank"]
+	path = rank
+	url = https://github.com/selkamand/rank
+	registered = false
 [submodule "utilitybeltassertions"]
 	path = utilitybeltassertions
 	url = https://github.com/selkamand/utilitybeltassertions

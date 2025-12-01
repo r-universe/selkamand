@@ -36,6 +36,12 @@
     "from": "ggoncoplot"
   },
   {
+    "package": "rank",
+    "url": "https://github.com/selkamand/rank",
+    "via": ["ggoncoplot"],
+    "from": "ggoncoplot"
+  },
+  {
     "package": "utilitybeltassertions",
     "url": "https://github.com/selkamand/utilitybeltassertions",
     "via": ["utilitybeltshiny"],
