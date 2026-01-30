@@ -5,41 +5,21 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
-[submodule "express"]
-	path = express
-	url = https://github.com/selkamand/express
-	registered = false
 [submodule "fastmart"]
 	path = fastmart
 	url = https://github.com/selkamand/fastmart
 [submodule "gg1d"]
 	path = gg1d
 	url = https://github.com/selkamand/gg1d
-[submodule "ggEDA"]
-	path = ggEDA
-	url = https://github.com/CCICB/ggEDA
-	registered = false
 [submodule "ggoncoplot"]
 	path = ggoncoplot
 	url = https://github.com/selkamand/ggoncoplot
-[submodule "golem"]
-	path = golem
-	url = https://github.com/Thinkr-open/golem
-	registered = false
 [submodule "mutaliskRutils"]
 	path = mutaliskRutils
 	url = https://github.com/selkamand/mutaliskRutils
-[submodule "mutationtypes"]
-	path = mutationtypes
-	url = https://github.com/selkamand/mutationtypes
-	registered = false
 [submodule "utilitybeltassertions"]
 	path = utilitybeltassertions
 	url = https://github.com/selkamand/utilitybeltassertions
-[submodule "utilitybeltfmt"]
-	path = utilitybeltfmt
-	url = https://github.com/selkamand/utilitybeltfmt
-	registered = false
 [submodule "utilitybeltgg"]
 	path = utilitybeltgg
 	url = https://github.com/selkamand/utilitybeltgg
