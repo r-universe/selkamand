@@ -5,6 +5,9 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
+[submodule "express"]
+	path = express
+	url = https://github.com/selkamand/express
 [submodule "fastmart"]
 	path = fastmart
 	url = https://github.com/selkamand/fastmart
